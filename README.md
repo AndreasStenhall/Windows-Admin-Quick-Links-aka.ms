@@ -22,19 +22,19 @@ This is a summary of great short links (aka.ms links) to great Windows admin res
 
 | Link  | Destination | Description |
 | ------------- | -------------  | ------------- |
-| [aka.ms/WindowsInTheCloud](https://aka.ms/WindowsInTheCloud) | Windows in the Cloud | TBA. |
+| [aka.ms/WindowsInTheCloud](https://aka.ms/WindowsInTheCloud) | Windows in the Cloud | A great starting point for Windows 365 and cloud pc resources. |
 
 # Azure Virtual Desktop
 
 | Link  | Destination | Description |
 | ------------- | -------------  | ------------- |
-| [aka.ms/avdweb](https://aka.ms/avdweb) | AVD sign-in page | TBA. |  
+| [aka.ms/Fslogix_download](https://aka.ms/Fslogix_download) | Download FSLogix | For the best profile management solution in AVD this is where to start when using FSLogix. |  
 
 # Surface
 
 | Link  | Destination | Description |
 | ------------- | -------------  | ------------- |
-| [aka.ms/SurfaceBatteryPerformance](https://aka.ms/SurfaceBatteryPerformance) | Surface Battery Performance | Estimated battery performance for  Surface devices. |  
+| [aka.ms/SurfaceBatteryPerformance](https://aka.ms/SurfaceBatteryPerformance) | Surface Battery Performance | On this page you can find the estimated battery performance for all Surface devices. |  
 
 # Intune
 
@@ -42,7 +42,7 @@ This is a summary of great short links (aka.ms links) to great Windows admin res
 | ------------- | -------------  | ------------- |
 | [aka.ms/in](https://aka.ms/in) | Intune Admin Center | The Intune Admin center - no further comments needed on this one. |
 | [aka.ms/intuneNew](https://aka.ms/intuneNew) | What's new in Intune | All new features and changes to Intune and device management is found here. |
-| [aka.ms/WUfBReports](https://aka.ms/WUfBReports) | Windows Update for Business reports | TBA. |
+| [aka.ms/WUfBReports](https://aka.ms/WUfBReports) | Windows Update for Business reports | This link takes you straight to the Windows Update for Business reports, which are actually not hosted inside Intune but in Azure > Monitor > Workbooks > Windows Update for Business report. |
 
 
 
