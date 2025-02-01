@@ -10,6 +10,7 @@ Use these links to quickly browse to more or less every day admin tasks to save 
 | [aka.ms/WindowsSysReq](https://aka.ms/WindowsSysReq) |Windows 11 System Requirements | Check out the details on Windows 11 system requirements. |
 | [aka.ms/winget-cli](https://aka.ms/winget-cli) | Winget GitHub page | This link takes you to the main page of the Winget (Windows Package Manager) GitHub page. |
 | [aka.ms/winget](https://aka.ms/winget) | Winget GitHub repository | This link takes you to the win-pkgs GitHub repository where there are thousands of applications. |
+| [aka.ms/WHfBCloudTrust](https://aka.ms/WHfBCloudTrust) | Windows Hello for Business Cloud Trust | This link takes you to the page where you will learn what Windows Hello for Business Cloud Trust is and how to enable it. |
 
 # Windows Tools
 
