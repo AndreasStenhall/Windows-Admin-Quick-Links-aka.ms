@@ -38,7 +38,6 @@ Use these links to quickly browse to more or less every day admin tasks to save 
 
 | Link  | Destination | Description |
 | ------------- | -------------  | ------------- |
-
 | [aka.ms/surfacerecovery](https://aka.ms/surfacerecovery) | Surface Recovery Image download page | On this page you can download the recovery images for all Surface devices. |  
 | [aka.ms/SurfaceBatteryPerformance](https://aka.ms/SurfaceBatteryPerformance) | Surface Battery Performance | On this page you can find the estimated battery performance for all Surface devices. |  
 
