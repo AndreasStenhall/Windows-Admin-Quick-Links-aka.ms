@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/30fd0836-1e32-4122-854b-db1f6bd8b278)This is a collection of aka.ms links that takes you straight to great Windows admin resources, which includes Windows, Cloud PC, Azure Virtual Desktop, Surface, and of course Intune. Enjoy!
+This is a collection of aka.ms links that takes you straight to great Windows admin resources, which includes Windows, Cloud PC, Azure Virtual Desktop, Surface, and of course Intune. Enjoy!
 Use these links to quickly browse to more or less every day admin tasks to save time.
 
 # General Windows stuff
