@@ -29,6 +29,7 @@ Use these links to quickly browse to more or less every day admin tasks to save 
 | ------------- | -------------  | ------------- |
 | [aka.ms/WindowsInTheCloud](https://aka.ms/WindowsInTheCloud) | Windows in the Cloud | A great starting point for Windows 365 and Cloud PC resources. |
 | [aka.ms/w365login](https://aka.ms/w365login) | Windows 365 Login page | Takes you to the Windows 365 / Cloud PC login page. |
+| [aka.ms/WindowsApp](https://aka.ms/WindowsApp) | Windows App | The Windows App is the #1 app to use to connect to Windows 365 / Cloud PC. |  
 | [aka.ms/CPCsizing](https://aka.ms/CPCsizing) | Windows 365 Sizing recommendations | Windows 365 / Cloud PC sizing recommendations - sizing of hardware. |
 | [aka.ms/windows365security](https://aka.ms/windows365security) | Windows 365 Security recommendations | Windows 365 / Cloud PC security recommendations. |
 
@@ -37,6 +38,10 @@ Use these links to quickly browse to more or less every day admin tasks to save 
 
 | Link  | Destination | Description |
 | ------------- | -------------  | ------------- |
+| [aka.ms/WindowsApp](https://aka.ms/WindowsApp) | Windows App | The Windows App is the #1 app to use to connect to Azure Virtual Desktop. |  
+| [aka.ms/avdwhatsnew](https://aka.ms/avdwhatsnew) | AVD What's New | What's new in Azure Virtual Desktop page. |  
+| [aka.ms/avdroadmap](https://aka.ms/avdroadmap) | Roadmap for AVD | Roadmap items for Azure Virtual Desktop. |  
+| [aka.ms/avdpricing](https://aka.ms/avdpricing) | AVD Pricing | Azure Virtual Desktop pricing page. |  
 | [aka.ms/Fslogix_download](https://aka.ms/Fslogix_download) | Download FSLogix | For the best profile management solution in AVD this is where you download FSLogix using the direct link. |  
 
 # Surface
@@ -52,9 +57,11 @@ Use these links to quickly browse to more or less every day admin tasks to save 
 | ------------- | -------------  | ------------- |
 | [aka.ms/in](https://aka.ms/in) | Intune Admin Center | The Intune Admin center - no further comments needed on this one. |
 | [aka.ms/intuneNew](https://aka.ms/intuneNew) | What's new in Intune | All new features and changes to Intune and device management is found here. |
+| [aka.ms/IntuneScripts](https://aka.ms/IntuneScripts) | Intune Scripts | Microsoft Intune Automation and Scripting Samples - Graph API and PowerShell examples. |
 | [aka.ms/WUfBReports](https://aka.ms/WUfBReports) | Windows Update for Business reports | This link takes you straight to the Windows Update for Business reports, which are actually not hosted inside Intune but in Azure > Monitor > Workbooks > Windows Update for Business report. |
-| [aka.ms/EndpointAnalytics](https://aka.ms/EndpointAnalytics) | Endpoint Analytics blade | This link takes you directly to the Endpoint Analytics blad in Intune Admin center. |
+| [aka.ms/EndpointAnalytics](https://aka.ms/EndpointAnalytics) | Endpoint Analytics blade | This link takes you directly to the Endpoint Analytics blade in Intune Admin center. |
 | [aka.ms/win32prep](https://aka.ms/win32prep) | Microsoft Win32 Content Prep Tool | This is where you find more information and download the Microsoft Win32 Content Prep Tool. |
+| [aka.ms/IntuneTroubleshooting](https://aka.ms/IntuneTroubleshooting) | Troubleshooting blad | This link takes you directly to the Troubleshooting blade in Intune Admin center. |
 | [aka.ms/dsregtool](https://aka.ms/dsregtool) | Device Registration Troubleshooter tool | This PowerShell script helps you troubleshoot device join (Hybrid and Cloud) and also Primatry Refresh tokens. |
 
 
