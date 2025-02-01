@@ -1,4 +1,4 @@
-This is a summary of quite a few aka.ms links that takes you straight to great Windows admin resources, which includes Windows, Cloud PC, Azure Virtual Desktop, Surface, and of course Intune. Enjoy!
+This is a collection of aka.ms links that takes you straight to great Windows admin resources, which includes Windows, Cloud PC, Azure Virtual Desktop, Surface, and of course Intune. Enjoy!
 Use these links to quickly browse to more or less every day admin tasks to save time.
 
 # General Windows stuff
@@ -13,6 +13,7 @@ Use these links to quickly browse to more or less every day admin tasks to save 
 
 | Link  | Destination | Description |
 | ------------- | -------------  | ------------- |
+| [aka.ms/MDEanalyzer](https://aka.ms/MDEanalyzer) | Microsoft Defender for Endpoints Configuration Analyzer tool | Direct link to download the tool that let you check the configuration of Microsoft Defender for Endpoints agent on your Windows devices. |
 | [aka.ms/WindowsAdminCenter](https://aka.ms/WindowsAdminCenter) | Windows Admin Center | For Windows devices that are connected to Active Directory Domain Services, Windows Admin Center is a great tool to administer your Windows devices. |
 | [aka.ms/WACdownload](https://aka.ms/WACdownload) | Download Windows Admin Center | Direct link to downlad Windows Admin Center. |
 | [aka.ms/Powertoys](https://aka.ms/Powertoys) | Windows PowerToys | Direct link to the PowerToys GitHub page. |
