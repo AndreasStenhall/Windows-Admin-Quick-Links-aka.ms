@@ -18,7 +18,7 @@ Use these links to quickly browse to more or less every day admin tasks to save 
 | ------------- | -------------  | ------------- |
 | [aka.ms/MDEanalyzer](https://aka.ms/MDEanalyzer) | Microsoft Defender for Endpoints Configuration Analyzer tool | Direct link to download the tool that let you check the configuration of Microsoft Defender for Endpoints agent on your Windows devices. |
 | [aka.ms/WindowsAdminCenter](https://aka.ms/WindowsAdminCenter) | Windows Admin Center | For Windows devices that are connected to Active Directory Domain Services, Windows Admin Center is a great tool to administer your Windows devices. |
-| [aka.ms/WACdownload](https://aka.ms/WACdownload) | Download Windows Admin Center | Direct link to downlad Windows Admin Center. |
+| [aka.ms/WACdownload](https://aka.ms/WACdownload) | Download Windows Admin Center | Direct link to download Windows Admin Center. |
 | [aka.ms/Powertoys](https://aka.ms/Powertoys) | Windows PowerToys | Direct link to the PowerToys GitHub page. |
 | [aka.ms/GetPowertoys](https://aka.ms/GetPowertoys) | Download Windows PowerToys | Direct link to the PowerToys Microsoft Store page. |
 | [aka.ms/WinDbg](https://aka.ms/WinDbg) | Install Windows Debugging Tools | Whenever you need to troubleshoot a blue screen of death, or an application crash, this is the tool. |
@@ -57,7 +57,7 @@ Use these links to quickly browse to more or less every day admin tasks to save 
 | [aka.ms/EndpointAnalytics](https://aka.ms/EndpointAnalytics) | Endpoint Analytics blade | This link takes you directly to the Endpoint Analytics blade in Intune Admin center. |
 | [aka.ms/win32prep](https://aka.ms/win32prep) | Microsoft Win32 Content Prep Tool | This is where you find more information and download the Microsoft Win32 Content Prep Tool. |
 | [aka.ms/IntuneTroubleshooting](https://aka.ms/IntuneTroubleshooting) | Troubleshooting blad | This link takes you directly to the Troubleshooting blade in Intune Admin center. |
-| [aka.ms/dsregtool](https://aka.ms/dsregtool) | Device Registration Troubleshooter tool | This PowerShell script helps you troubleshoot device join (Hybrid and Cloud) and also Primatry Refresh tokens. |
+| [aka.ms/dsregtool](https://aka.ms/dsregtool) | Device Registration Troubleshooter tool | This PowerShell script helps you troubleshoot device join (Hybrid and Cloud) and also Primary Refresh tokens. |
 
 # Surface
 
