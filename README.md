@@ -46,14 +46,6 @@ Use these links to quickly browse to more or less every day admin tasks to save 
 | [aka.ms/avdpricing](https://aka.ms/avdpricing) | AVD Pricing | Azure Virtual Desktop pricing page. |  
 | [aka.ms/Fslogix_download](https://aka.ms/Fslogix_download) | Download FSLogix | For the best profile management solution in AVD this is where you download FSLogix using the direct link. |  
 
-# Surface
-
-| Link  | Destination | Description |
-| ------------- | -------------  | ------------- |
-| [aka.ms/surfacerecovery](https://aka.ms/surfacerecovery) | Surface Recovery Image download page | On this page you can download the recovery images for all Surface devices. |  
-| [aka.ms/SurfaceDrivers](https://aka.ms/SurfaceDrivers) | Surface Drivers and Firmware downloads | All information you need on drivers and firmware for Surface devices. |  
-| [aka.ms/SurfaceBatteryPerformance](https://aka.ms/SurfaceBatteryPerformance) | Surface Battery Performance | On this page you can find the estimated battery performance for all Surface devices. |  
-
 # Intune
 
 | Link  | Destination | Description |
@@ -66,6 +58,16 @@ Use these links to quickly browse to more or less every day admin tasks to save 
 | [aka.ms/win32prep](https://aka.ms/win32prep) | Microsoft Win32 Content Prep Tool | This is where you find more information and download the Microsoft Win32 Content Prep Tool. |
 | [aka.ms/IntuneTroubleshooting](https://aka.ms/IntuneTroubleshooting) | Troubleshooting blad | This link takes you directly to the Troubleshooting blade in Intune Admin center. |
 | [aka.ms/dsregtool](https://aka.ms/dsregtool) | Device Registration Troubleshooter tool | This PowerShell script helps you troubleshoot device join (Hybrid and Cloud) and also Primatry Refresh tokens. |
+
+# Surface
+
+| Link  | Destination | Description |
+| ------------- | -------------  | ------------- |
+| [aka.ms/surfacerecovery](https://aka.ms/surfacerecovery) | Surface Recovery Image download page | On this page you can download the recovery images for all Surface devices. |  
+| [aka.ms/SurfaceDrivers](https://aka.ms/SurfaceDrivers) | Surface Drivers and Firmware downloads | All information you need on drivers and firmware for Surface devices. |  
+| [aka.ms/SurfaceBatteryPerformance](https://aka.ms/SurfaceBatteryPerformance) | Surface Battery Performance | On this page you can find the estimated battery performance for all Surface devices. |  
+
+
 
 
 
