@@ -1,4 +1,4 @@
-This is a collection of aka.ms links that takes you straight to great Windows admin resources, which includes Windows, Cloud PC, Azure Virtual Desktop, Surface, and of course Intune. Enjoy!
+![image](https://github.com/user-attachments/assets/01a28961-1b59-47dc-92f1-339441debe17)This is a collection of aka.ms links that takes you straight to great Windows admin resources, which includes Windows, Cloud PC, Azure Virtual Desktop, Surface, and of course Intune. Enjoy!
 Use these links to quickly browse to more or less every day admin tasks to save time.
 
 # General Windows stuff
@@ -8,6 +8,8 @@ Use these links to quickly browse to more or less every day admin tasks to save 
 | [aka.ms/WRH](https://aka.ms/WRH) | Windows Release Health dashboard | Information about know issues, fixed issues and other information relevant to each Windows release. |
 | [aka.ms/wipISO](https://aka.ms/wipISO) | Download Windows Insider build ISOs | This is where you download all the Windows Insider builds that are released as ISOs. |
 | [aka.ms/WindowsSysReq](https://aka.ms/WindowsSysReq) |Windows 11 System Requirements | Check out the details on Windows 11 system requirements. |
+| [aka.ms/winget-cli](https://aka.ms/winget-cli) | Winget GitHub page | This link takes you to the main page of the Winget (Windows Package Manager) GitHub page. |
+| [aka.ms/winget](https://aka.ms/winget) | Winget GitHub repository | This link takes you to the win-pkgs GitHub repository where there are thousands of applications. |
 
 # Windows Tools
 
@@ -36,6 +38,8 @@ Use these links to quickly browse to more or less every day admin tasks to save 
 
 | Link  | Destination | Description |
 | ------------- | -------------  | ------------- |
+
+| [aka.ms/surfacerecovery](https://aka.ms/surfacerecovery) | Surface Recovery Image download page | On this page you can download the recovery images for all Surface devices. |  
 | [aka.ms/SurfaceBatteryPerformance](https://aka.ms/SurfaceBatteryPerformance) | Surface Battery Performance | On this page you can find the estimated battery performance for all Surface devices. |  
 
 # Intune
