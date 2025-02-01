@@ -22,6 +22,7 @@ Use these links to quickly browse to more or less every day admin tasks to save 
 | [aka.ms/Powertoys](https://aka.ms/Powertoys) | Windows PowerToys | Direct link to the PowerToys GitHub page. |
 | [aka.ms/GetPowertoys](https://aka.ms/GetPowertoys) | Download Windows PowerToys | Direct link to the PowerToys Microsoft Store page. |
 | [aka.ms/WinDbg](https://aka.ms/WinDbg) | Install Windows Debugging Tools | Whenever you need to troubleshoot a blue screen of death, or an application crash, this is the tool. |
+| [aka.ms/LinkPhone](https://aka.ms/LinkPhone) | Windows Phone Link App | Direct link to install the app that links your Android phone or iPhone to your Windows 11 PC. |
 
 # Windows 365 / Cloud PC
 
@@ -29,6 +30,7 @@ Use these links to quickly browse to more or less every day admin tasks to save 
 | ------------- | -------------  | ------------- |
 | [aka.ms/WindowsInTheCloud](https://aka.ms/WindowsInTheCloud) | Windows in the Cloud | A great starting point for Windows 365 and Cloud PC resources. |
 | [aka.ms/w365login](https://aka.ms/w365login) | Windows 365 Login page | Takes you to the Windows 365 / Cloud PC login page. |
+| [aka.ms/Windows365Link](https://aka.ms/Windows365Link) | Windows 365 Link | Information about Windows 365 Link - The hardware device for use with Windows 365 Cloud PC. |
 | [aka.ms/WindowsApp](https://aka.ms/WindowsApp) | Windows App | The Windows App is the #1 app to use to connect to Windows 365 / Cloud PC. |  
 | [aka.ms/CPCsizing](https://aka.ms/CPCsizing) | Windows 365 Sizing recommendations | Windows 365 / Cloud PC sizing recommendations - sizing of hardware. |
 | [aka.ms/windows365security](https://aka.ms/windows365security) | Windows 365 Security recommendations | Windows 365 / Cloud PC security recommendations. |
@@ -49,6 +51,7 @@ Use these links to quickly browse to more or less every day admin tasks to save 
 | Link  | Destination | Description |
 | ------------- | -------------  | ------------- |
 | [aka.ms/surfacerecovery](https://aka.ms/surfacerecovery) | Surface Recovery Image download page | On this page you can download the recovery images for all Surface devices. |  
+| [aka.ms/SurfaceDrivers](https://aka.ms/SurfaceDrivers) | Surface Drivers and Firmware downloads | All information you need on drivers and firmware for Surface devices. |  
 | [aka.ms/SurfaceBatteryPerformance](https://aka.ms/SurfaceBatteryPerformance) | Surface Battery Performance | On this page you can find the estimated battery performance for all Surface devices. |  
 
 # Intune
