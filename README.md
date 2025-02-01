@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/01a28961-1b59-47dc-92f1-339441debe17)This is a collection of aka.ms links that takes you straight to great Windows admin resources, which includes Windows, Cloud PC, Azure Virtual Desktop, Surface, and of course Intune. Enjoy!
+This is a collection of aka.ms links that takes you straight to great Windows admin resources, which includes Windows, Cloud PC, Azure Virtual Desktop, Surface, and of course Intune. Enjoy!
 Use these links to quickly browse to more or less every day admin tasks to save time.
 
 # General Windows stuff
@@ -28,6 +28,10 @@ Use these links to quickly browse to more or less every day admin tasks to save 
 | Link  | Destination | Description |
 | ------------- | -------------  | ------------- |
 | [aka.ms/WindowsInTheCloud](https://aka.ms/WindowsInTheCloud) | Windows in the Cloud | A great starting point for Windows 365 and Cloud PC resources. |
+| [aka.ms/w365login](https://aka.ms/w365login) | Windows 365 Login page | Takes you to the Windows 365 / Cloud PC login page. |
+| [aka.ms/CPCsizing](https://aka.ms/CPCsizing) | Windows 365 Sizing recommendations | Windows 365 / Cloud PC sizing recommendations - sizing of hardware. |
+| [aka.ms/windows365security](https://aka.ms/windows365security) | Windows 365 Security recommendations | Windows 365 / Cloud PC security recommendations. |
+
 
 # Azure Virtual Desktop
 
