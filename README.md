@@ -5,15 +5,15 @@ Use these links to quickly browse to more or less everyday admin tasks to save t
 
 | Link  | Destination | Description |
 | ------------- | -------------  | ------------- |
-| [aka.ms/WRH](https://aka.ms/WRH) | Windows Release Health dashboard | Information about know issues, fixed issues and other information relevant to each Windows release. |
+| [aka.ms/WRH](https://aka.ms/WRH) | Windows Release Health dashboard | Information about known issues, fixed issues and other information relevant to each Windows release. |
 | [aka.ms/windows11updatehistory](https://aka.ms/windows11updatehistory) | Windows 11 Update History | Information about the latest Cumulative Update for Windows 11. |
 | [aka.ms/cloudnativeendpoints](https://aka.ms/cloudnativeendpoints) | Cloud-native Windows  | Information about what cloud-only Windows means - i.e. Entra Joined and Intune managed. |
 | [aka.ms/CyberPAW](https://aka.ms/CyberPAW) | PAW (Privileged Access Workstations)  | Information about PAW (Privileged Access Workstations) for administration. |
-| [aka.ms/windowsinsider](https://aka.ms/windowsinsiderO) | Windows Insider Program | This is where you find all information about becoming a Windows Insider and the Windows Insider Program. |
+| [aka.ms/windowsinsider](https://aka.ms/windowsinsider) | Windows Insider Program | This is where you find all information about becoming a Windows Insider and the Windows Insider Program. |
 | [aka.ms/wipISO](https://aka.ms/wipISO) | Download Windows Insider build ISOs | This is where you download all the Windows Insider builds that are released as ISOs. |
 | [aka.ms/WindowsSysReq](https://aka.ms/WindowsSysReq) |Windows 11 System Requirements | Check out the details on Windows 11 system requirements. |
 | [aka.ms/winget-cli](https://aka.ms/winget-cli) | Winget GitHub page | This link takes you to the main page of the Winget (Windows Package Manager) GitHub page. |
-| [aka.ms/winget](https://aka.ms/winget) | Winget GitHub repository | This link takes you to the win-pkgs GitHub repository where there are thousands of applications. |
+| [aka.ms/winget](https://aka.ms/winget) | Winget GitHub repository | This link takes you to the winget-pkgs GitHub repository where there are thousands of applications. |
 | [aka.ms/EntraKerberos](https://aka.ms/EntraKerberos) | Entra Kerberos | This link guides you to enable Entra Kerberos for single-sign on to on-premises resources with modern authentication (passkeys and Windows Hello for Business). |
 | [aka.ms/WHfBCloudTrust](https://aka.ms/WHfBCloudTrust) | Windows Hello for Business Cloud Trust | This link takes you to the page where you will learn what Windows Hello for Business Cloud Trust is and how to enable it. |
 
@@ -21,7 +21,7 @@ Use these links to quickly browse to more or less everyday admin tasks to save t
 
 | Link  | Destination | Description |
 | ------------- | -------------  | ------------- |
-| [aka.ms/MDEanalyzer](https://aka.ms/MDEanalyzer) | Microsoft Defender for Endpoints Configuration Analyzer tool | Direct link to download the tool that let you check the configuration of Microsoft Defender for Endpoints agent on your Windows devices. |
+| [aka.ms/MDEanalyzer](https://aka.ms/MDEanalyzer) | Microsoft Defender for Endpoints Configuration Analyzer tool | Direct link to download the tool that let you check the configuration of Microsoft Defender for Endpoints agent on your Windows devices. More about the tool at [Microsoft Learn](https://learn.microsoft.com/en-us/defender-endpoint/overview-client-analyzer). |
 | [aka.ms/WindowsAdminCenter](https://aka.ms/WindowsAdminCenter) | Windows Admin Center | For Windows devices that are connected to Active Directory Domain Services, Windows Admin Center is a great tool to administer your Windows devices. |
 | [aka.ms/WACdownload](https://aka.ms/WACdownload) | Download Windows Admin Center | Direct link to download Windows Admin Center. |
 | [aka.ms/Powertoys](https://aka.ms/Powertoys) | Windows PowerToys | Direct link to the PowerToys GitHub page. |
@@ -62,7 +62,7 @@ Use these links to quickly browse to more or less everyday admin tasks to save t
 | [aka.ms/EndpointAnalytics](https://aka.ms/EndpointAnalytics) | Endpoint Analytics blade | This link takes you directly to the Endpoint Analytics blade in Intune Admin center. |
 | [aka.ms/win32prep](https://aka.ms/win32prep) | Microsoft Win32 Content Prep Tool | This is where you find more information and download the Microsoft Win32 Content Prep Tool. |
 | [aka.ms/IntuneTroubleshooting](https://aka.ms/IntuneTroubleshooting) | Troubleshooting blad | This link takes you directly to the Troubleshooting blade in Intune Admin center. |
-| [aka.ms/dsregtool](https://aka.ms/dsregtool) | Device Registration Troubleshooter tool | This PowerShell script helps you troubleshoot device join (Hybrid and Cloud) and also Primary Refresh tokens. |
+| [aka.ms/dsregtool](https://aka.ms/dsregtool) | Device Registration Troubleshooter tool | This PowerShell script helps you troubleshoot device join (Hybrid and Cloud) and also Primary Refresh Tokens. |
 
 # Surface
 
@@ -77,7 +77,7 @@ Use these links to quickly browse to more or less everyday admin tasks to save t
 | Link  | Destination | Description |
 | ------------- | -------------  | ------------- |
 | [aka.ms/mysecurityinfo](https://aka.ms/mysecurityinfo) | My Security Info | The place where the end user can see and manage their multi factor authentication methods. |  
-| [aka.ms/surfacerecovery](https://aka.ms/aadrecoverykey) | BitLocker recovery key | End users can retrieve BitLocker recovery keys on Entra joined devices here. |  
+
 
 
 
